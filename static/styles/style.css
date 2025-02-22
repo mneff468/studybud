@@ -615,6 +615,12 @@ a {
   }
 }
 
+@media screen and (max-width: 500px) {
+  .browse-topics, .recent-activities {
+      display: block;
+  }
+}
+
 /*==============================
 =>  Room List
 ================================*/
